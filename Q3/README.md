@@ -4,13 +4,13 @@
 This section contains my analysis of Question 3 (Arrays and ArrayLists):
 
 #### My initial approach during the exam:
-- Ideas here
+- I'm glad i rememberd how to intialize arrayList, the understanding of the prompt wasn't too difficult, might have forogt some increments thoough
   
 #### My revised solution after review:
-- Ideas here
+- Made sure to increment startIndex and endIndex, and overall was pretty okay
   
 #### Key concepts tested in this question:
-- Ideas here
+- ArrayLists was tested during this prompt, loops, and index management
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- ArrayList was revisited
