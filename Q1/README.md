@@ -4,13 +4,14 @@
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
 #### My initial approach during the exam:
-- Ideas here
+- Understand both prompts
+- Pretty straightfoward task, nothing crazy, maybe forgetting some key information  other then that it was pretty well written
   
 #### My revised solution after review:
-- Ideas here
+- Found a better way to solve it, rather in my original approach, using 2 for statements and I couldeve only put it all in one if statement.
   
 #### Key concepts tested in this question:
-- Ideas here
+- Wants to test your ability on class design, intitializing vatiable, method implementation, and etc
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- Learned more about helper methods and their usage in the ap exam
